@@ -1,5 +1,5 @@
 # BirdHunter
-PowerApps Version on classic Duck Hunter Game.
+PowerApps Version on classic Duck Hunter Game, inspired from Brian Dang's YouTube tutorials.
 
 ![alt text](https://github.com/nijos/BirdHunter/blob/master/birdHunterGif.gif)
 
